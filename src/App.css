@@ -1,0 +1,21 @@
+body{
+  background-color: #202020;
+}
+.fondo{
+  background-color: #ffe4c4;
+}
+.nombre{
+  color: blue;
+}
+.scoreBoard{
+  display: flex;
+  justify-content: space-between;
+  border: #202020 1px solid;  
+  padding-left: 2rem;
+  padding-right: 2rem;
+  flex-wrap: wrap;
+}
+.scoreBoard ul{
+  list-style: none;
+  padding-left: 0;
+}
